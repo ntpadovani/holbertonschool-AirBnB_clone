@@ -1,2 +1,13 @@
-footer {background-color: #ffff; height: 60px; width: 100%; border-top: 1px #CCCCCC; bottom: 0px; position: absolute;}
-footer p{text-align: center; left: 0px;}
+footer {
+    background-color: #ffff;
+    height: 60px;
+    width: 100%;
+    border-top: 1px #CCCCCC;
+    bottom: 0px;
+    position: absolute;
+}
+
+footer p {
+    text-align: center;
+    left: 0px;
+}
